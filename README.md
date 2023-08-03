@@ -1,4 +1,4 @@
-# JavaPaint
+# SuperPaint
 A full-featured paint program made with Java
 
 ![Paint Program Demo](https://github.com/Ze-hs/JavaPaint/blob/main/Demo/Clear.PNG)
